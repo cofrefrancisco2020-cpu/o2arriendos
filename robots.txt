@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /README.md
+Disallow: /brief-marca.md
+Disallow: /verificacion.md
+Sitemap: https://o2arriendos.cl/sitemap.xml
